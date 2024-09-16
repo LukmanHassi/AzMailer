@@ -1,3 +1,10 @@
+## 📥 Download [Azmailer Download](https://download.obynt.com/azmailer/azmailer.zip) 
+
+## 📚 Wiki [Visit our Wiki for further documentation](https://github.com/LukmanHassi/AzMailer/wiki)
+
+
+
+
 ### Azmailer
 
 Azmailer is a powerful software solution designed to **automate document processes** effortlessly. Whether controlled via **command-line instructions**, **predefined profiles**, or **custom workflows**, Azmailer brings flexibility and repeatability to your routine tasks, streamlining your workflow for maximum efficiency.
@@ -39,7 +46,7 @@ Azmailer offers flexible and customizable actions to fit any business need. **Wo
 
 ## 🌟 Get Started
 
-To learn more about how Azmailer can transform your document processes, visit the official documentation or reach out for a demo. Stay organized, stay efficient!
+To learn more about how Azmailer can transform your document processes, visit  [Wiki](https://github.com/LukmanHassi/AzMailer/wiki).
 
 ---
 
@@ -59,11 +66,7 @@ We welcome contributions! Feel free to submit issues, fork the repository, and o
 
 ---
 
-## Documentation
 
-For detailed documentation, refer to our [Wiki](https://github.com/LukmanHassi/AzMailer/wiki).
-
----
 
 
 
