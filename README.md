@@ -47,8 +47,7 @@ To learn more about how Azmailer can transform your document processes, visit th
 
 For questions, feedback, or support:
 
-- **Email:** [support@azmailer.com](mailto:support@azmailer.com)
-- **Website:** [www.azmailer.com](https://www.azmailer.com)
+- **Email:** [lukman@hassi.net](mailto:lukman@hassi.net)
 
 ---
 
