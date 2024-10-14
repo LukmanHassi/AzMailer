@@ -63,13 +63,25 @@ We welcome contributions! Feel free to submit issues, fork the repository, and o
 
 ---
 
+
+
+![AzMailer Main](https://github.com/user-attachments/assets/1f013820-197d-48fd-83a6-1dd8146111ee)
 ---
-
-
-![AzMailer Main](https://github.com/user-attachments/assets/f2e6aecd-d690-4e12-8b9b-e09e7b7b66ce)
-
-
-
+![AzMailer Trigger](https://github.com/user-attachments/assets/b50b837a-1f93-4c71-8eaa-be43320c4945)
+---
+![AzMailer Name](https://github.com/user-attachments/assets/89e928a7-330a-4bfc-a800-2799daee37f2)
+---
+![AzMailer Merge](https://github.com/user-attachments/assets/3e1f0442-5e19-4b6a-9bb9-294a85f2e66c)
+---
+![AzMailer XRechnung](https://github.com/user-attachments/assets/7b010caa-1e19-4e04-b6f0-7f0df5ed5b8a)
+---
+![AzMailer Copy](https://github.com/user-attachments/assets/ccfa3253-a274-401f-9f0d-91b9c03016b6)
+---
+![AzMailer Mail](https://github.com/user-attachments/assets/15a9261c-3cd8-485b-abd7-5afb89585f9d)
+---
+![AzMailer Print](https://github.com/user-attachments/assets/5e4c46f0-185e-42ce-afb7-8efa446abfe2)
+---
+![AzMailer FTP](https://github.com/user-attachments/assets/4a66037b-6dae-40a4-89d4-254d682cf9f9)
 
 
 
