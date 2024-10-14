@@ -4,7 +4,6 @@
 
 
 
-
 ### Azmailer
 
 Azmailer is a powerful software solution designed to **automate document processes** effortlessly. Whether controlled via **command-line instructions**, **predefined profiles**, or **custom workflows**, Azmailer brings flexibility and repeatability to your routine tasks, streamlining your workflow for maximum efficiency.
@@ -67,6 +66,7 @@ We welcome contributions! Feel free to submit issues, fork the repository, and o
 ---
 
 
+![AzMailer Main](https://github.com/user-attachments/assets/f2e6aecd-d690-4e12-8b9b-e09e7b7b66ce)
 
 
 
