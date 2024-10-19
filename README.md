@@ -1,4 +1,4 @@
-## 📥 Download [Azmailer Download](https://github.com/LukmanHassi/AzMailer/releases)
+## 📥 Download [AzMailer Download](https://github.com/LukmanHassi/AzMailer/releases)
 
 ## 📚 Wiki [Visit our Wiki for further documentation](https://github.com/LukmanHassi/AzMailer/wiki)
 
