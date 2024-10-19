@@ -1,4 +1,5 @@
-## 📥 Download [Azmailer Download](https://download.obynt.com/azmailer/azmailer.zip) 
+## 📥 Download [Azmailer Download]([https://github.com/LukmanHassi/AzMailer/releases])) 
+
 
 ## 📚 Wiki [Visit our Wiki for further documentation](https://github.com/LukmanHassi/AzMailer/wiki)
 
