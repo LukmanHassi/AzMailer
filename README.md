@@ -6,7 +6,7 @@
 
 ### Azmailer
 
-Azmailer is a powerful software solution designed to **automate document processes** effortlessly. Whether controlled via **command-line instructions**, **predefined profiles**, or **custom workflows**, Azmailer brings flexibility and repeatability to your routine tasks, streamlining your workflow for maximum efficiency.
+AzMailer is a software solution designed to **automate document processes** effortlessly. Whether controlled via **command-line instructions**, **predefined profiles**, or **custom workflows**, Azmailer brings flexibility and repeatability to your routine tasks, streamlining your workflow for maximum efficiency.
 
 For example, an automated workflow can be triggered when a file is placed in a user-defined folder, ensuring hands-free operation.
 
