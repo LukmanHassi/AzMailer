@@ -16,7 +16,7 @@ For example, an automated workflow can be triggered when a file is placed in a u
 
 - **📄 File Renaming (Naming):** Automatically rename files using predefined rules for consistency.
 - **📚 PDF Editing (Merging):** Seamlessly merge multiple PDFs, insert images, and add text for document manipulation.
-- **🧾 XRechnung (Xbuying):** Create and validate XRechnungen in compliance with current standards.
+- **🧾 XRechnung (XInvoice):** Create and validate XRechnungen in compliance with current standards.
 - **📂 File Copying (Copying):** Automate copying files to local directories or network locations.
 - **📧 Email Sending (Mailing):** Send files via SMTP in HTML format with customizable sending limits (e.g., emails per minute/hour/day). Integrate with email lists or CSV files.
 - **🖨️ Printing Function (Printing):** Send files to physical or virtual printers with personalized settings (color, paper tray, number of copies, etc.).
