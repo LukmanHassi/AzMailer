@@ -20,7 +20,8 @@ For example, an automated workflow can be triggered when a file is placed in a u
 - **📂 File Copying (Copying):** Automate copying files to local directories or network locations.
 - **📧 Email Sending (Mailing):** Send files via SMTP in HTML format with customizable sending limits (e.g., emails per minute/hour/day). Integrate with email lists or CSV files.
 - **🖨️ Printing Function (Printing):** Send files to physical or virtual printers with personalized settings (color, paper tray, number of copies, etc.).
-- **🌐 FTP Upload (Uploading):** Automatically upload files to FTP servers with ease.
+- **🌐 FTP Upload (Uploading):** Automatically upload files to FTP or SFTP servers.
+- **📜 Run Functions (Run):** Automate the run a specified .exe file as a different user, passing custom command / Script (like powershell.exe or cmd.exe)
 - **⏲️ Trigger Functions (Triggering):** Execute workflows based on time schedules or custom-defined events.
 
 ---
